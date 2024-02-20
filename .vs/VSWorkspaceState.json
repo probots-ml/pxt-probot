@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_locales",
+    "\\_locales\\es"
   ],
-  "SelectedNode": "\\C:\\Users\\maxi_\\Source\\Repos\\pxt-probot",
+  "SelectedNode": "\\pxt.json",
   "PreviewInSolutionExplorer": false
 }
