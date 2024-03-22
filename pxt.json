@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "probot.ts",
-        "_locales/es/probots-strings.json",
+        "_locales/es/probot-strings.json",
         "mednet.ts"
     ],
     "testFiles": [
